@@ -95,3 +95,32 @@ table{
 .row-color2{
     background-color: #ffffff;
 }
+
+#alt-info{
+    color: #858585;
+    font-weight: 900;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.img-photo{
+    
+    font-size: 40px;
+    color: white;
+    margin-left: 20px;
+}
+
+.img-footer{
+
+    background-image: url(../img/monitor.jpg);
+    width: 20%;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+.img-footer2{
+
+    background-image: url(../img/graph.jpg);
+    width: 20%;
+    height: 200px;
+}

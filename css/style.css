@@ -8,7 +8,7 @@
 .background{
     
     background-image: url('../img/pattern.png');
-    background-position: 80% 7% ;
+    background-position: 80% 0% ;
     background-color: #4ea0ff;
 }
 
@@ -21,8 +21,13 @@
     background-image: url('../img/pattern.png');
 }
 
+main{
+    width: 98%;
+    margin: auto;
+}
+
 .font-title{
-    font-size: 60px;
+    font-size: 70px;
 }
 
 .author-text{
@@ -31,10 +36,36 @@
     color: #919191;
 }
 
-#Color-blue{
+#color-blue{
     color: #35b1e7;
 }
 
-.SubTitle{
+.subtitle{
     font-size: 22px;
+}
+
+div img{
+    margin-top: 30px;
+    width: 900px;
+    height: 600px;
+}
+
+.img-description{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.paragraph-font{
+    margin-top: 15px;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.bg-yellow{
+    background-color: #ffff00;
+}
+
+.margin-list{
+    margin-top: 15px;
+    margin-left: 20px;
 }

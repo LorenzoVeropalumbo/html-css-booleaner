@@ -8,13 +8,15 @@
 .background-img{
     
     background-image: url('../img/pattern.png');
-    background-position: 80% 0% ;
+    background-position: 40% 0% ;
     background-color: #4ea0ff;
+    height: 10%;
 }
 
 .logo{
 
     width: 18%;
+    height: 18%;
     margin-top: 80px;
     margin-left: 20px;
     margin-bottom: 10px;
